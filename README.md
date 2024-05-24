@@ -1,6 +1,6 @@
-# multitonic
+# Git Tonic : Git Capable AI Team
 
-🌟MultiTonic : Pluripotent AGI-style agent of agents that can build and deploy its own stack, go online and produce multi media outputs autonomously
+A part of 🌟MultiTonic : Pluripotent AGI-style agent of agents that can build and deploy its own stack, go online and produce multi media outputs autonomously
 
 # Automate Scientific Data Publishing
 
